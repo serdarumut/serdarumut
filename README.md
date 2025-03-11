@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SERDAR</h1>
+<h1 align="center">Whatss UPp, I'm SERDAR</h1>
 <h3 align="center">A passionate frontend developer from IndiaI'm continuing my work in the field of cybersecurity and moving forward in selecting a niche for myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdarumut&label=Profile%20views&color=0e75b6&style=flat" alt="serdarumut" /> </p>
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdarumut&show_icons=true&locale=en&layout=compact" alt="serdarumut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serdarumut&show_icons=true&locale=en" alt="serdarumut" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serdarumut&" alt="serdarumut" /></p>
